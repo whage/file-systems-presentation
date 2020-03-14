@@ -1,5 +1,5 @@
 # My "File Systems" presentation
 
-Based on https://github.com/hakimel/reveal.js
+For Öveges Club @ evosoft, 2019.10.04.
 
-The slides are available at https://whage.github.io/file-systems-presentation/.
+Based on https://github.com/hakimel/reveal.js
